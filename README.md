@@ -1,1 +1,2 @@
-"# Text-Dungeon-Game" 
+# Text-Dungeon-Game
+This is an old-school style text adventure game, reimagined as a roguelike dungeon crawl. Create a character by choosing a Kin (Human, Dwarf, Elf, and Orc), an Adventurer (Mage, Rogue, or Warrior), and an Archetype (three options per Adventurer type). Enter and navigate a randomly generated dungeon, overcoming obstacles and fighting off baddies, to reach the heart of the dungeon!
